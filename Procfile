@@ -1,1 +1,1 @@
-echo 'web: heroku-php-apache2 public/'
+heroku-php-apache2 public/
